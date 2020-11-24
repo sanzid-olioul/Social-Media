@@ -1,4 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://sanzid:sanzid@socalmedia.dlntg.mongodb.net/user_details?retryWrites=true&w=majority",
+    "mongoURI":"mongodb://sanzid:854742879@social-shard-00-00.xtltj.mongodb.net:27017,social-shard-00-01.xtltj.mongodb.net:27017,social-shard-00-02.xtltj.mongodb.net:27017/user_details?ssl=true&replicaSet=atlas-ou8vtv-shard-0&authSource=admin&retryWrites=true&w=majority",
     "jwtSecret": "mysecrettoken"
 }
